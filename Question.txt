@@ -1,2 +1,3 @@
 1 怎么从版本库恢复到本地
-2 怎么从远程克隆仓库
+2 怎么从远程克隆仓库   
+使用git@github.com:Hansom-wang/gitskills.git不能从远程克隆，可以使用https://github.com：Hansom-wang/gitsiklls.git 
